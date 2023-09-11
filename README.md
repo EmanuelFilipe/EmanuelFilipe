@@ -9,14 +9,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: him/his
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelFilipe&repo=github-readme-stats)](https://github.com/EmanuelFilipe/github-readme-stats)
 - -->
 - 🔭 I'm currently be unemployed
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on projects on the architecture MVC C# or Vue.js
-- 😄 Pronouns: him/his
 
-<div>
+<br>
+<div align="center">
   <a href="https://github.com/EmanuelFilipe" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelFilipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <!--
