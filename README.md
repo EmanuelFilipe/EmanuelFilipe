@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - -->
 - 🔭 I'm currently be unemployed
 - 🌱 I’m currently learning React Js
-- 👯 I’m looking to collaborate on projects with the language C# or Vue.js
+- 👯 I’m looking to collaborate on projects on the architecture MVC C# or Vue.js
 - 😄 Pronouns: him/his
 
 <div>
