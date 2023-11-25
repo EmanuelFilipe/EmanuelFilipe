@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 😄 Pronouns: him/his
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelFilipe&repo=github-readme-stats)](https://github.com/EmanuelFilipe/github-readme-stats)
+- 🌱 I’m currently learning ReactJs and Azure
 - -->
 - 🔭 I'm currently be unemployed
-- 🌱 I’m currently learning ReactJs and Azure
 - 👯 I’m looking to collaborate on projects on the architecture MVC C# or Vue.js
 
 <br>
