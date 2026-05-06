@@ -14,18 +14,34 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJs and Azure
 - -->
 - 🔭 I'm currently be unemployed
-- 👯 I’m looking to collaborate on projects on the architecture MVC C# and Angular
+- 👯 I’m looking to collaborate on ASP.NET Core C# projects and Angular
 
-<br>
-<div align="center">
-  <a href="https://github.com/EmanuelFilipe" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelFilipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <!--
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?top-langs/username=EmanuelFilipe&layout=compact&langs_count=16&theme=dracula" />
-    -->
-</div>
-          
-<div align="center" style="display: inline-block"><br>
+<table align="center" border="0">
+  <tr>
+    <td border="0"><img align="center" alt="Filipe-dotnet" height="30" width="40" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></td>
+    <td><img align="center" alt="Filipe-dotnet-core" height="30" width="40" title="ASP.NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></td>
+    <td><img align="center" alt="Filipe-CSharp" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
+    <td> <img align="center" alt="Filipe-azure" height="30" width="40" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></td>
+    <td>|</td>
+    <td><img align="center" alt="Filipe-JS" height="30" width="40" title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </td>
+    <td><img align="center" alt="Filipe-jquery" height="30" width="40" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /></td>
+    <td> <img align="center" alt="Filipe-angular" height="30" width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></td>
+    <td><img align="center" alt="Filipe-react" height="30" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></td>
+    <td><img align="center" alt="Filipe-css" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></td>
+    <td><img align="center" alt="Filipe-bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></td>
+    <td>|</td>
+    <td><img align="center" alt="Filipe-sqlserver" height="30" width="40" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> </td>
+    <td><img align="center" alt="Filipe-sqlite" height="30" width="40" title="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></td>
+    <td><img align="center" alt="Filipe-mysql" height="30" width="40" title="mySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
+    <td><img align="center" alt="Filipe-mongodb" title="mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
+    <td>|</td>
+    <td><img align="center" alt="Filipe-cypress" height="30" width="40" title="cypress" src="https://cdn.simpleicons.org/cypress" /></td>
+    <td><img align="center" alt="Filipe-jest" height="30" width="40" title="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></td>
+  </tr>
+</table>
+
+<!--
+<p align="center">
   <img align="center" alt="Filipe-dotnet" height="30" width="40" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Filipe-dotnet-core" height="30" width="40" title="ASP.NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Filipe-CSharp" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -45,7 +61,8 @@ Here are some ideas to get you started:
   <span>|</span>
   <img align="center" alt="Filipe-cypress" height="30" width="40" title="cypress" src="https://cdn.simpleicons.org/cypress" />
   <img align="center" alt="Filipe-jest" height="30" width="40" title="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-</div>
+</p>
+-->
 
 ##
 
